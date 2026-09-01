@@ -1,3 +1,13 @@
+# Local reference project and macOS metadata
+.DS_Store
+grok-icon-study-main/
+
+# Downloaded toolchain dependencies and generated firmware output
+.deps/
+build/
+GrokStopWatch/build/
+backups/*.bin
+
 # Prerequisites
 *.d
 
